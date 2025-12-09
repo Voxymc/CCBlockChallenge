@@ -1,0 +1,4 @@
+name: CCBlockChallenge
+main: com.example.ccblockchallenge.CCBlockChallenge
+version: 1.0
+api-version: 1.21
